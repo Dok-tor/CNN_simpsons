@@ -1,7 +1,7 @@
 # CNN_simpsons
 Проект создания сверточной нейросети для соревнований на kaggle
 
-Ссылка на соревнование Kaggle
+Ссылка на соревнование Kaggle https://www.kaggle.com/competitions/journey-springfield
 
 Датасет можно скачать по ссылке https://drive.google.com/file/d/1woAe2CCvqLbXcoH89REjqPUrR6C5lSBY/view?usp=sharing
 
